@@ -1,0 +1,50 @@
+[
+  {
+    "id_exam": "91",
+    "date_exam": "2024-01-29",
+    "id_vache": "144",
+    "maladie": "fievre"
+  },
+  {
+    "id_exam": "93",
+    "date_exam": "2024-01-27",
+    "id_vache": "144",
+    "maladie": "fievre"
+  },
+  {
+    "id_exam": "95",
+    "date_exam": "2024-01-28",
+    "id_vache": "123",
+    "maladie": "fievre"
+  },
+  {
+    "id_exam": "96",
+    "date_exam": "2024-01-29",
+    "id_vache": "14",
+    "maladie": "fievre"
+  },
+  {
+    "id_exam": "97",
+    "date_exam": "2024-01-28",
+    "id_vache": "14",
+    "maladie": "fievre"
+  },
+  {
+    "id_exam": "98",
+    "date_exam": "2024-01-28",
+    "id_vache": "123",
+    "maladie": "rhume"
+  },
+  {
+    "id_exam": "99",
+    "date_exam": "2024-01-28",
+    "id_vache": "123",
+    "maladie": "rhume"
+  },
+  {
+    "id_exam": "100",
+    "date_exam": "2024-01-15",
+    "id_vache": "14",
+    "maladie": "fievre"
+  }
+]

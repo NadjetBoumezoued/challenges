@@ -1,0 +1,43 @@
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+.form-container input[type="text"],
+.form-container select,
+.submit-add{
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+   
+    
+}
+.submit-add{
+    border-radius: 0.5rem;
+  background-color: #9CC368;
+  border: none;
+  padding: 0.5rem 1rem;
+    font-size: 14px;
+}
+.form-container  h2 {
+    text-align: center;
+}
+.react-datepicker-wrapper {
+    display: inline-block;
+    width: 100%;
+  }
+
+  
+.form-container select {
+    appearance: none;
+}
+
+

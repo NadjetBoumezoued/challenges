@@ -1,0 +1,47 @@
+[
+  {
+    "id_vache": "15",
+    "date_entree": "2024-01-03",
+    "race": "Montbillard"
+  },
+  {
+    "id_vache": "112",
+    "date_entree": "2024-02-15",
+    "race": "Montbillard"
+  },
+  {
+    "id_vache": "123",
+    "date_entree": "2024-01-28",
+    "race": "Montbillard"
+  },
+  {
+    "id_vache": "144",
+    "date_entree": "2024-01-28",
+    "race": "Holstein"
+  },
+  {
+    "id_vache": "1466",
+    "date_entree": "2024-01-08",
+    "race": "Holstein"
+  },
+  {
+    "id_vache": "14",
+    "date_entree": "2024-01-27",
+    "race": "Holstein"
+  },
+  {
+    "id_vache": "1455",
+    "date_entree": "2024-01-29",
+    "race": "Montbillard"
+  },
+  {
+    "id_vache": "123423",
+    "date_entree": "2024-01-22",
+    "race": "Holstein"
+  },
+  {
+    "id_vache": "142",
+    "date_entree": "2024-02-04",
+    "race": "Holstein"
+  }
+]

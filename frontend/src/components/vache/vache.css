@@ -1,0 +1,40 @@
+.vache-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+.table-container {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.vache-table {
+  width: 100%;
+}
+
+.pagination-buttons {
+  float: right;
+}
+
+.vache-header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2%;
+
+}
+
+.vache-header h2 {
+  margin: 0;
+  
+}
+.vache-header button {
+  border-radius: 0.5rem;
+  background-color: #9CC368;
+  border: none;
+  padding: 0.5rem 1rem;
+}

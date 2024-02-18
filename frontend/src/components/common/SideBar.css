@@ -1,0 +1,27 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 15%;
+  background-color: #3CA2DB;
+  transition: background-color 0.3s ease;
+}
+.sidebar-logo  img {
+  margin-top: 10PX;
+  margin-bottom: 30px;
+  width: 90%;
+
+
+}
+.sidebar-icon {
+  padding: 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.sidebar-icon.active {
+  background-color: #EFF3FB;
+  color: rgb(45, 45, 45);
+
+}

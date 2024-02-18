@@ -1,0 +1,47 @@
+[
+  {
+    "id_naiss": "5",
+    "date_naissance": "2024-01-29",
+    "id_vache": "144"
+  },
+  {
+    "id_naiss": "6",
+    "date_naissance": "2024-02-01",
+    "id_vache": "144"
+  },
+  {
+    "id_naiss": "7",
+    "date_naissance": "2024-01-28",
+    "id_vache": "144"
+  },
+  {
+    "id_naiss": "8",
+    "date_naissance": "2024-01-31",
+    "id_vache": "144"
+  },
+  {
+    "id_naiss": "9",
+    "date_naissance": "2024-02-02",
+    "id_vache": "144"
+  },
+  {
+    "id_naiss": "10",
+    "date_naissance": "2024-01-28",
+    "id_vache": "123"
+  },
+  {
+    "id_naiss": "11",
+    "date_naissance": "2024-01-03",
+    "id_vache": "123"
+  },
+  {
+    "id_naiss": "12",
+    "date_naissance": "2024-02-05",
+    "id_vache": "144"
+  },
+  {
+    "id_naiss": "13",
+    "date_naissance": "2024-01-28",
+    "id_vache": "14"
+  }
+]

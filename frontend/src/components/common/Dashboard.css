@@ -1,0 +1,12 @@
+leftPanel
+{
+  width: 15%;
+  float: left;
+}
+
+
+.rightPanel
+{
+  width: 85%;
+  float: right;
+}
