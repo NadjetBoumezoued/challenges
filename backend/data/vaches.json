@@ -1,7 +1,7 @@
 [
   {
     "id_vache": "15",
-    "date_entree": "2024-01-03",
+    "date_entree": "2024-01-02",
     "race": "Montbillard"
   },
   {
@@ -17,7 +17,7 @@
   {
     "id_vache": "144",
     "date_entree": "2024-01-28",
-    "race": "Holstein"
+    "race": "Montbillard"
   },
   {
     "id_vache": "1466",
@@ -37,7 +37,7 @@
   {
     "id_vache": "123423",
     "date_entree": "2024-01-22",
-    "race": "Holstein"
+    "race": "Montbillard"
   },
   {
     "id_vache": "142",

@@ -26,6 +26,9 @@ function Dashboard() {
           return <Naissance/>;
       case 'production':
           return <Production/>;
+      default:
+        return null;
+
       
     }
   };
