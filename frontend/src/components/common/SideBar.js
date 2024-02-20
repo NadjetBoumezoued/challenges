@@ -14,6 +14,9 @@ function SideBar(props) {
              <div className="sidebar-logo ">
                <img src={Logo} alt="logo" class="logo"/>
              </div>
+             <div className={`sidebar-icon ${activeIcon === 'home' ? 'active' : ''}`} onClick={() => handleIconClick('home')}>          
+              <span><b>Acceuil</b></span>
+            </div>
             <div className={`sidebar-icon ${activeIcon === 'vaches' ? 'active' : ''}`} onClick={() => handleIconClick('vaches')}>     
               <span><b>Vaches</b></span>
             </div>
@@ -26,6 +29,7 @@ function SideBar(props) {
             <div className={`sidebar-icon ${activeIcon === 'production' ? 'active' : ''}`} onClick={() => handleIconClick('production')}>          
               <span><b>Production </b></span>
             </div>
+           
           </div>  
       
     

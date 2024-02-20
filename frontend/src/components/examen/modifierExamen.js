@@ -68,6 +68,7 @@ const ModifierExamForm = ({ exam }) => {
                     onChange={handleDateChange}
                     dateFormat="yyyy-MM-dd"
                     placeholderText="Date d'examen"
+                    disabled
                 />
                  <input type="text" name="id_vache" value={examData.id_vache} onChange={handleChange} placeholder="ID de la vache" required />
               

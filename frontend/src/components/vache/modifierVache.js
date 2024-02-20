@@ -60,7 +60,7 @@ const AddVacheForm = ({ vache }) => {
             <form className="form-container" onSubmit={handleSubmit}>
                 <h2>Modifier une vache</h2>
 
-                <input type="text" name="id_vache" value={vacheData.id_vache} onChange={handleChange} placeholder="ID de la vache" required />
+                <input type="text" name="id_vache" value={vacheData.id_vache} onChange={handleChange} placeholder="ID de la vache" disabled />
                 <DatePicker
                     selected={vacheData.date_entree ? new Date(vacheData.date_entree) : null}
                     onChange={handleDateChange}

@@ -5,39 +5,9 @@
     "qte": "500"
   },
   {
-    "id_prod": "3",
-    "date_production": "2023-04-17",
-    "qte": 100
-  },
-  {
     "id_prod": "4",
     "date_production": "2023-04-18",
     "qte": "400"
-  },
-  {
-    "id_prod": "5",
-    "date_production": "2023-04-19",
-    "qte": 300
-  },
-  {
-    "id_prod": "6",
-    "date_production": "2023-04-20",
-    "qte": 300
-  },
-  {
-    "id_prod": "7",
-    "date_production": "2023-04-21",
-    "qte": 300
-  },
-  {
-    "id_prod": "8",
-    "date_production": "2023-04-22",
-    "qte": 300
-  },
-  {
-    "id_prod": "9",
-    "date_production": "2023-04-23",
-    "qte": 300
   },
   {
     "id_prod": "10",
@@ -62,6 +32,16 @@
   {
     "id_prod": "14",
     "date_production": "2024-01-30",
-    "qte": "4003"
+    "qte": "407"
+  },
+  {
+    "id_prod": "15",
+    "date_production": "2024-08-08",
+    "qte": "333"
+  },
+  {
+    "id_prod": "16",
+    "date_production": "2024-01-03",
+    "qte": "344"
   }
 ]

@@ -4,7 +4,7 @@ import Vache from '../vache/vache';
 import Examen from  '../examen/examen';
 import Naissance from  '../naissance/naissance';
 import Production from  '../production/production';
-
+import Home from  './Home';
 
 
 import './Dashboard.css'
@@ -26,8 +26,10 @@ function Dashboard() {
           return <Naissance/>;
       case 'production':
           return <Production/>;
-      default:
-        return null;
+      case 'home':
+            return <Home/>;
+      default :
+          return <Home/>;
 
       
     }

@@ -1,13 +1,8 @@
 [
   {
-    "id_vache": "15",
-    "date_entree": "2024-01-02",
-    "race": "Montbillard"
-  },
-  {
     "id_vache": "112",
     "date_entree": "2024-02-15",
-    "race": "Montbillard"
+    "race": "Holstein"
   },
   {
     "id_vache": "123",
